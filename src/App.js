@@ -1,6 +1,6 @@
 import './App.css';
-import { Link } from 'react-router-dom'
-import { useNavigate } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
+// import { useNavigate } from 'react-router-dom'
 import Footer from './component/Footer';
 import Router from './component/Router';
 

@@ -17,6 +17,7 @@ import MyPost from './WritePost'
             <Route path="/SignIn" element={<SignIn/>}/>
             <Route path="/MyPost" element={<MyPost/>}/>
         </Routes>
+         <button>save</button>
       </BrowserRouter>
     </div>
   )
